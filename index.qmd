@@ -11,7 +11,7 @@ format:
     background-transition: fade
     highlight-style: tango
     title-slide-attributes:
-      data-background-color: "#006C93"
+      data-background-color: "#3E5B6F"
       data-background-size: 50%
       data-background-position: 50% 9%
 knitr:
