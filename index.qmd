@@ -58,5 +58,7 @@ knitr:
 
 ## Website
 <hr>
-
-[www.entrypointsutk.org](https://www.entrypointsutk.org)
+<br>
+<br>
+<br>
+[**www.entrypointsutk.org**](https://www.entrypointsutk.org){.center}
