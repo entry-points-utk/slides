@@ -6,11 +6,11 @@
 //Fonts
 $font-family-sans-serif: 'Montserrat', sans-serif !default;
 
-//Headings
+//Slide Headings
 $presentation-heading-font: "Tinos", serif !default;
-$presentation-heading-color: #FF8200 !default;
-$subheading-font: "Montserrat", sans-serif !default;
-$subheading-color: #2197A9 !default;
+$presentation-heading-color: #006C93 !default;
+// $subheading-font: "Montserrat", sans-serif !default;
+// $subheading-color: #006C93 !default;
 
 //Colors
 $orange: #FF8200;
@@ -86,58 +86,24 @@ $energy: #EE3E80;
   color: #EE3E80;
 }
 
-
-//Grammar of Graphics Font Color Classes
-.data-color {
-  color: #2A2C7C;
-}
-
-.aesthetics-color {
-  color: #552E91;
-}
-
-.geometries-color {
-  color: #7F2E92;
-}
-
-.scales-color {
-  color: #B32B8F;
-}
-
-.facets-color {
-  color: #D5536F;
-}
-
-.coordinates-color {
-  color: #F07C50;
-}
-
-.labels-color {
-  color: #FBAB33;
-}
-
-.theme-color {
-  color: #F4E420;
+// Title Slide
+#title-slide {
+  .title {
+    font-size: 2em;
+    color: $summit;
+  }
+  .subtitle {
+    color: $white;
+  }
+  .quarto-title-author {
+    color: $white;
+  }
 }
 
 // Base Document colors
 $link-color: $fountain;
 $link-color-hover: $valley;
 $body-color: $gray;
-
-/*-- scss:rules --*/
-#title-slide {
-  .title {
-    font-size: 2em;
-    color: $white;
-  }
-  .subtitle {
-    color: $orange;
-  }
-  .quarto-title-author {
-    color: $white;
-  }
-}
 
 // horizontal line
 hr { 
@@ -174,10 +140,5 @@ hr {
 
 figcaption {
   font-size: 0.1em; /* Adjust the size as needed */
-  color: #666; /* Optional: adjust the color */
-}
-
-//shade alternate rows of table
-.table-striped tbody tr:nth-of-type(odd) {
-    background-color: #dcf0f0;
+  color: #666666; /* Optional: adjust the color */
 }
