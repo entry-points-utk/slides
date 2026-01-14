@@ -27,7 +27,7 @@ knitr:
 1. **Entry Points: Pathways and Possibilities to Support Student Learning about Data and AI**
     - Elevate Your Work
 2. **AAIC: Appalachian AI Corps**
-    - PI: Sukanya Moudgalya
+    - AI Tennessee, PI: Sukanya Moudgalya
 
 ## Entry Points
 <hr>
