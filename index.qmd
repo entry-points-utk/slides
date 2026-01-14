@@ -56,9 +56,29 @@ knitr:
   - Exploring national frameworks and recommendations for advancing data science and AI education
   - GAISE III, Data Science Learning Progressions, CSTA PK-12 Computer Science Standards, NASEM Competencies
 
-## Website
+## Entry Points: Website
 <hr>
 <br>
 <br>
 <br>
-[**www.entrypointsutk.org**](https://www.entrypointsutk.org){.center}
+<center>[**www.entrypointsutk.org**](https://www.entrypointsutk.org)</center>
+
+## AAIC
+<hr>
+- **AAIC: Appalachian AI Corps**
+  - Funded by AI Tennessee
+  - Goal: Empower rural Appalachian communities to use AI to support their region, communities, and families.
+  - Working in two area school districts heavily affected by Hurricane Helene
+    - Using Edge AI water buoys, data science to analyze water quality
+  
+## AAIC: Smokey Buoy
+<hr>
+
+![](smokeybuoy.png)
+
+## AAIC: Website
+<hr>
+<br>
+<br>
+<br>
+<center>[**www.appalachianaicorps.org**](https://www.appalachianaicorps.org)</center>

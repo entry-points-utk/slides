@@ -9,8 +9,8 @@ $font-family-sans-serif: 'Montserrat', sans-serif !default;
 //Slide Headings
 $presentation-heading-font: "Tinos", serif !default;
 $presentation-heading-color: #006C93 !default;
-// $subheading-font: "Montserrat", sans-serif !default;
-// $subheading-color: #006C93 !default;
+$subheading-font: "Montserrat", sans-serif !default;
+$subheading-color: #006C93 !default;
 
 //Colors
 $orange: #FF8200;
@@ -104,7 +104,6 @@ $energy: #EE3E80;
 $link-color: $fountain;
 $link-color-hover: $valley;
 $body-color: $gray;
-$background-color: $limestone;
 
 
 .center {
