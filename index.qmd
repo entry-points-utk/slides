@@ -41,3 +41,22 @@ knitr:
   - [February 2023]{.date}
   - Showcasing different configurations of university programs & pathways that are positioned at the intersections of data science, AI, and education
   - Undergraduate degree programs, pre-service programs, continuing teacher ed programs, other graduate programs
+
+## Entry Points: Event #2
+<hr>
+- **Topic: K-12 Efforts**
+  - [March 2023]{.date}
+  - Highlighting opportunities to support data science and AI education in classrooms, schools, and districts
+  - Landscape data science + AI programs curriculum + highlighting data science education projects at UTK
+
+## Entry Points: Event #3
+<hr>
+- **Topic: National Frameworks & Recommendation**
+  - [April 2023]{.date}
+  - Exploring national frameworks and recommendations for advancing data science and AI education
+  - GAISE III, Data Science Learning Progressions, CSTA PK-12 Computer Science Standards, NASEM Competencies
+
+## Website
+<hr>
+
+[www.entrypointsutk.org](https://www.entrypointsutk.org)
