@@ -47,14 +47,14 @@ knitr:
 - **Topic: K-12 Efforts**
   - [March 2023]{.date}
   - Highlighting opportunities to support data science and AI education in classrooms, schools, and districts
-  - Landscape data science + AI programs curriculum + highlighting data science education projects at UTK
+  - Landscape of data science + AI curriculum + highlighting data science/AI education projects at UTK
 
 ## Entry Points: Event #3
 <hr>
-- **Topic: National Frameworks & Recommendation**
+- **Topic: National Frameworks & Recommendations**
   - [April 2023]{.date}
   - Exploring national frameworks and recommendations for advancing data science and AI education
-  - GAISE III, Data Science Learning Progressions, CSTA PK-12 Computer Science Standards, NASEM Competencies
+  - GAISE III, Data Science Learning Progressions, possibly 1-2 more
 
 ## Entry Points: Website
 <hr>
@@ -69,7 +69,7 @@ knitr:
   - Funded by AI Tennessee
   - Goal: Empower rural Appalachian communities to use AI to support their region, communities, and families.
   - Working in two area school districts heavily affected by Hurricane Helene
-    - Using Edge AI water buoys, data science to analyze water quality
+    - Using Edge AI buoys, data science to analyze water quality
   
 ## AAIC: Smokey Buoy
 <hr>
