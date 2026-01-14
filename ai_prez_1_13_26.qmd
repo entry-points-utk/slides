@@ -1,0 +1,30 @@
+---
+subtitle: "Entry Points & AAIC"
+title: "AI & Data Projects"
+author: "Dr. Kelly Boles"
+format:
+  revealjs:
+    theme: [simple, ai_prez_style.scss]
+    mainfont: Montserrat
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    highlight-style: tango
+    title-slide-attributes:
+      data-background-color: "#00746F"
+      data-background-size: 50%
+      data-background-position: 50% 9%
+    footer: UTK Educational Data Science
+knitr:
+  opts_chunk: 
+    fig.align: center
+    echo: true
+    warning: false
+    message: false
+---
+
+## AI & Data Projects
+
+- Entry Points: Pathways and Possibilities to Support Student Learning about Data and AI
+- AAIC: Appalachian AI Corps
+    - PI: Sukanya Moudgalya
