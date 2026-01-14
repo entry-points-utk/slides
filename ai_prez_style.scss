@@ -8,7 +8,7 @@ $font-family-sans-serif: 'Montserrat', sans-serif !default;
 
 //Slide Headings
 $presentation-heading-font: "Tinos", serif !default;
-$presentation-heading-color: #3E5B6F !default;
+$presentation-heading-color: #006C93 !default;
 // $subheading-font: "Montserrat", sans-serif !default;
 // $subheading-color: #006C93 !default;
 
@@ -96,7 +96,7 @@ $energy: #EE3E80;
     color: $white;
   }
   .quarto-title-author {
-    color: $white;
+    color: $summit;
   }
 }
 
@@ -107,7 +107,7 @@ $body-color: $gray;
 
 // horizontal line
 hr { 
-  border: 3px solid $gray;
+  border: 3px solid $eureka;
   border-radius: 2px;
   margin-bottom: 15px;
 }
@@ -136,6 +136,11 @@ hr {
 
 .tiny-font{
   font-size: 10px;
+}
+
+.date {
+    color: $energy;
+    font-size: 0.9em;
 }
 
 figcaption {

@@ -24,13 +24,20 @@ knitr:
 
 ## AI & Data Projects
 <hr>
-1. Entry Points: Pathways and Possibilities to Support Student Learning about Data and AI
-    - *Elevate Your Work*
-2. AAIC: Appalachian AI Corps
+1. **Entry Points: Pathways and Possibilities to Support Student Learning about Data and AI**
+    - Elevate Your Work
+2. **AAIC: Appalachian AI Corps**
     - PI: Sukanya Moudgalya
 
 ## Entry Points
 <hr>
-- Entry Points: Pathways and Possibilities to Support Student Learning about Data and AI
-    - *Elevate Your Work* Project
-- Three-webinar series, each with a different focus
+- **Entry Points: Pathways and Possibilities to Support Student Learning about Data and AI**
+  - Elevate Your Work Project
+  - Three-webinar series, each with a different focus
+
+## Entry Points: Event #1
+<hr>
+- **Topic: Postsecondary Efforts**
+  - [February 2023]{.date}
+  - Showcasing different configurations of university programs & pathways that are positioned at the intersections of data science, AI, and education
+  - Undergraduate degree programs, pre-service programs, continuing teacher ed programs, other graduate programs
