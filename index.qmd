@@ -71,7 +71,7 @@ knitr:
   - Working in two area school districts heavily affected by Hurricane Helene
     - Using Edge AI buoys, data science to analyze water quality
   
-## AAIC: Smokey Buoy
+## AAIC: The Buoy
 <hr>
 
 ![](smokeybuoy.png)
